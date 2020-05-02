@@ -1,0 +1,11 @@
+﻿user,assembly,batchfile,c,c#,c++,clojure,coffeescript,css,elixir,emacs lisp,go,haskell,html,java,javascript,jupyter notebook,kotlin,lua,matlab,objective-c,objective-c++,ocaml,perl,php,powershell,purebasic,python,rascal,ruby,rust,scala,shell,swift,tex,typescript,vim script,vue
+1,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no
+2,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes
+3,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+4,no,no,no,no,no,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+5,no,no,yes,yes,yes,no,no,no,no,no,no,yes,no,,no,no,no,no,yes,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes
+6,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,,yes,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,no,yes,yes,yes,no,no,yes,yes,yes
+7,no,no,no,no,yes,no,no,no,no,no,no,no,no,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no
+8,no,no,no,no,no,no,no,no,no,no,yes,no,yes,,no,no,no,no,no,no,no,no,yes,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no
+9,no,no,yes,no,yes,no,no,no,no,no,no,no,no,,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no
+10,no,no,no,no,no,no,no,no,no,no,no,yes,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
